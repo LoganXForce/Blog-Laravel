@@ -2,8 +2,6 @@
 
 #### Setup Project
 ```bash
-# clone the repo
-git clone https://github.com/devzakir/laravel-complete-blog-development.git laravel-blog
 
 # install composer dependency
 composer install
